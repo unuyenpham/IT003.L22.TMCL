@@ -1,4 +1,4 @@
-# IT003.L22.TMCL course at UIT
+# IT003.L22.TMCL
 **Cấu trúc Dữ liệu & Giải thuật**
 
 :clown_face::clown_face::clown_face:
