@@ -10,7 +10,3 @@ Hello, my name is Uyen (Phạm Mai Trúc Uyên), I'm a sophomore at University o
    1. BT 2a
    1. BT 2b
 
-
-
-
-> Dont wake me up, I met my deadlines!
